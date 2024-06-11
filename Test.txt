@@ -3,3 +3,9 @@ git init
 git add filename
 
 git commit -m "first"
+
+how are you
+
+i am fine
+
+what about you
